@@ -20,16 +20,24 @@
 
 ## 📁 项目结构
 ├── index.php # 主页面文件
-├── assets/ # 静态资源目录
-│ ├── m.css # 样式文件
-│ ├── style.css # 主样式文件
-│ ├── lx.png # 联系标签图标
-│ └── zy.png # 导航标签图标
-└── photos/ # 图片资源目录
-├── TX.jpg # 头像图片
-├── QQ.jpg # QQ二维码
-└── QQ图标.png # QQ图标
 
+├── assets/ # 静态资源目录
+
+│ ├── m.css # 样式文件
+
+│ ├── style.css # 主样式文件
+
+│ ├── lx.png # 联系标签图标
+
+│ └── zy.png # 导航标签图标
+
+└── photos/ # 图片资源目录
+
+├── TX.jpg # 头像图片
+
+├── QQ.jpg # QQ二维码
+
+└── QQ图标.png # QQ图标
 ## 🚀 快速开始
 
 部署到服务器
