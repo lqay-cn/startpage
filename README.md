@@ -32,17 +32,6 @@
 
 ## 🚀 快速开始
 
-### 本地运行
-
-1. 克隆项目到本地
-```bash
-git clone https://github.com/你的用户名/仓库名.git
-使用PHP环境运行（因为文件扩展名为.php）
-
-bash
-php -S localhost:8000
-在浏览器中访问 http://localhost:8000
-
 部署到服务器
 直接将项目文件上传到您的网站根目录即可。
 
