@@ -38,8 +38,7 @@
 ⚙️ 配置说明
 修改个人信息
 在 index.php 中找到以下部分进行修改：
-
-html
+```bash
 <!-- 修改作者名称 -->
 <div class="author-name">引导页</div>
 
@@ -50,7 +49,6 @@ html
 修改导航链接
 在 .app-list.a1 区域修改或添加导航项：
 
-html
 <a href="你的链接" class="item" target="_blank">
     <div class="content-wrap">
         <div class="img-wrap">
@@ -62,7 +60,6 @@ html
 修改联系信息
 在 .app-list.a2 区域修改联系方式：
 
-html
 <!-- QQ号点击显示二维码 -->
 <a href="javascript:void(0);" class="item" onclick="showModal('/photos/QQ.jpg')">
     ...
